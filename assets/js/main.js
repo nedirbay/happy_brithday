@@ -132,7 +132,7 @@ jQuery(function ($) {
     //  	Countdown
     // -------------------------------------------------------------
         $("#countdown").countdown({
-            date: "23 Oct 2024 00:00:00",
+            date: "01 Dec 2024 00:00:00",
             format: "on"
         });
 
